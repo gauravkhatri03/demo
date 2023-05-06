@@ -68,7 +68,7 @@
     "prism-themes": "^1.0.1",
     "prismjs": "^1.15.0",
     "prop-types": "^15.6.2",
-    "qs": "^6.6.0",
+    "qs": "^6.6.1",
     "ramda": "^0.26.1",
     "react": "^16.8.6",
     "react-apollo": "^2.5.5",
